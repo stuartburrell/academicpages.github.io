@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### [1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
+**[1] On the dimension and measure of inhomogeneous attractors**, [arXiv](https://arxiv.org/abs/1805.00887)  
 *submitted.*
 
 {% if author.googlescholar %}
