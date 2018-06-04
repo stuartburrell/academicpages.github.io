@@ -1,9 +1,9 @@
 ---
 title: "Trace contrast methods in acoustic space"
 collection: talks
-type: "Talk"
+type: 
 permalink:
 venue: "African Institute for Mathematical Sciences"
-date: 2012-03-01
+date: 2017-01-20
 location: "Cape Town, South Africa"
 ---

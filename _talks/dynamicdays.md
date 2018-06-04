@@ -1,9 +1,9 @@
 ---
 title: "A brief note on the dimension of inhomogeneous attractors"
 collection: talks
-type: "Talk"
-permalink: 
+type:
+permalink:
 venue: "Dynamic Days Europe, University of Loughborough"
-date: 2012-03-01
+date: 2018-09-03
 location: "Loughborough, United Kingdom"
 ---

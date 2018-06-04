@@ -1,9 +1,9 @@
 ---
 title: "Fractal geometry in nature and art"
 collection: talks
-type: "Talk"
+type: 
 permalink:
 venue: "Carnegie Gathering, The Royal Society of Edinburgh"
-date: 2012-03-01
+date: 2018-02-07
 location: "Edinburgh, Scotland"
 ---

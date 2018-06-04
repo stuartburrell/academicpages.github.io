@@ -1,9 +1,9 @@
 ---
 title: "How big are inhomogeneous attractors?"
 collection: talks
-type: "Talk"
-permalink: 
+type: 
+permalink:
 venue: "Edinburgh Mathematical Society PG Student Meeting, The Burn"
-date: 2012-03-01
+date: 2018-05-22
 location: "Glen Esk, Scotland"
 ---
