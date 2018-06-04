@@ -25,4 +25,4 @@ KY16 9SS
 Scotland  
 Email: sb235@st-andrews.ac.uk
 
-#### [Curriculum Vitae](https://github.com/stuartburrell/stuartburrell/blob/master/files/cv.pdf)
+#### [Curriculum Vitae](https://github.com/stuartburrell/stuartburrell/files/cv.pdf)
