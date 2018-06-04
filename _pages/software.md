@@ -5,6 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-GAP Semigroups
+[**GAP Semigroups package**](http://www.gap-system.org/Packages/semigroups.html): implemented methods to decide the order and torsion problems of natural and tropical matrix semigroups.  
 
-GAP Digraphs
+[**GAP Digraphs package**](http://www.gap-system.org/Packages/digraphs.html): implementated methods for computing simple circuits.
