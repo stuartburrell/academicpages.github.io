@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of St Andrews, School of Mathematics and Statistics"
-date: Autumn 2018
+date: 2018
 location: "St Andrews, Scotland"
 ---
 
