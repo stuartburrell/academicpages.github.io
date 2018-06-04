@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-[See a map of all the places I've given a talk!](https://stuartburrell.github.io/stuartburrell/talkmap/map.html)
+[See a map of all the places I've given a talk!](https://stuartburrell.github.io/stuartburrell/talkmap.html)
 
 
 ### A brief note on the dimension of inhomogeneous attractors
