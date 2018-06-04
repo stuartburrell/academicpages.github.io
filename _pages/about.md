@@ -16,8 +16,6 @@ My current research is on fractal geometry and related fields in analysis, super
 
 When not doing Mathematics, you'll find me rock climbing or in the beautiful mountains of Scotland.
 
-#### [Curriculum Vitae](http://stuartburrell.github.io/files/cv.pdf)
-
 ## Contact details
 
 School of Mathematics and Statistics  
@@ -26,3 +24,5 @@ St Andrews
 KY16 9SS  
 Scotland  
 Email: sb235@st-andrews.ac.uk
+
+#### [Curriculum Vitae](https://github.com/stuartburrell/stuartburrell/blob/master/files/cv.pdf)
