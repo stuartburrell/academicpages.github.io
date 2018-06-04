@@ -80,9 +80,9 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.jpg"
-  bio              : "PhD Student"
-  location         : "St Andrews, UK"
+  bio              : ""
   employer         : "Universiy of St Andrews"
+  location         : "United Kingdom"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
