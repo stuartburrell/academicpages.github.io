@@ -23,4 +23,4 @@ The University of St Andrews
 St Andrews  
 KY16 9SS  
 Scotland  
-e-mail: sb235@st-andrews.ac.uk
+Email: sb235@st-andrews.ac.uk
