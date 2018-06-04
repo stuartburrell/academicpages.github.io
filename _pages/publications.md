@@ -1,10 +1,8 @@
 ---
-title: 
+title: Research Articles
 permalink: /publications/
 author_profile: true
 ---
-
-# Research Articles
 
 ### [1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
 *submitted.*
