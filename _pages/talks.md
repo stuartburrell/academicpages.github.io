@@ -24,10 +24,10 @@ Postgraduate Interdisciplinary Mathematics Symposium, Scotland, Februrary 2018.
 ### Dimension of inhomogeneous self-conformal and self-affine sets
 St Andrews Research Day, January 2018.
 ### Inhomogeneous attractors and upper box dimension
-Institut Mittag-Leffler, Sweden, December 2017, slides, abstract.
+Institut Mittag-Leffler, Sweden, December 2017.
 ### Introduction to trace contrast methods
 Estimating animal abundance and density using acoustic data workshop, South Africa, January 2017.
 ### Trace contrast methods in acoustic space
-African Institute for Mathematical Sciences, South Africa, January 2017, slides.
+African Institute for Mathematical Sciences, South Africa, January 2017.
 ### Sequential Monte Carlo in population dynamics
-St Andrews, 2016, slides.
+St Andrews, 2016.
