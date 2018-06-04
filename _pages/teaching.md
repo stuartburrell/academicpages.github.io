@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 
 ### Academic Tutor for the [Centre for Academic and Professional Development](https://www.st-andrews.ac.uk/capod/)
-University of St Andrews, 2016-present.
+University of St Andrews, 2016 - present.
 ### MT2502 Analysis, Tutor
 University of St Andrews, Autumn 2018.
 ### MT1002 Mathematics, Computer Demonstrator
