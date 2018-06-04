@@ -26,8 +26,8 @@ St Andrews Research Day, January 2018.
 ### Inhomogeneous attractors and upper box dimension
 Institut Mittag-Leffler, Sweden, December 2017.
 ### Introduction to trace contrast methods
-Estimating animal abundance and density using acoustic data workshop, South Africa, January 2017.
+Estimating animal density using acoustic data workshop, South Africa, January 2017.
 ### Trace contrast methods in acoustic space
 African Institute for Mathematical Sciences, South Africa, January 2017.
 ### Sequential Monte Carlo in population dynamics
-St Andrews, 2016.
+St Andrews, April 2016.
