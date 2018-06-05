@@ -9,7 +9,7 @@ author_profile: true
 ### A brief note on the dimension of inhomogeneous attractors
 Dynamics Days Europe, University of Loughborough, September 2018.
 ### A universal upper bound on the dimension of inhomogeneous attractors
-British Mathematical Colloquium, June 2018
+British Mathematical Colloquium, University of St Andrews, June 2018
 ### How big are inhomogeneous attractors?
 Edinburgh Mathematical Society PG Student Meeting, The Burn, Glen Esk, May 2018.
 ### On the dimension and measure of inhomogeneous attractors
@@ -21,7 +21,7 @@ Carnegie Gathering, The Royal Society of Edinburgh, February 2018.
 ### An introduction to iterated function systems
 Postgraduate Interdisciplinary Mathematics Symposium, Scotland, Februrary 2018.
 ### Dimension of inhomogeneous self-conformal and self-affine sets
-St Andrews Research Day, January 2018.
+School of Mathematics and Statistics Research Day, University of St Andrews, January 2018.
 ### Inhomogeneous attractors and upper box dimension
 Institut Mittag-Leffler, Sweden, December 2017.
 ### Introduction to trace contrast methods
