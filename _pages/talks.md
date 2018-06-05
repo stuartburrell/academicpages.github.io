@@ -6,7 +6,6 @@ author_profile: true
 
 [See a map of all the places I've given a talk!](https://stuartburrell.github.io/stuartburrell/talkmap.html)
 
-
 ### A brief note on the dimension of inhomogeneous attractors
 Dynamics Days Europe, University of Loughborough, September 2018.
 ### A universal upper bound on the dimension of inhomogeneous attractors
