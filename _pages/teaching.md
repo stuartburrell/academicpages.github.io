@@ -1,9 +1,11 @@
 ---
-title: "Teaching at the University of St Andrews"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 {% include base_path %}
+
+# University of St Andrews
 
 ## [Centre for Academic and Professional Development](https://www.st-andrews.ac.uk/capod/)
 Mathematics and Statistics Tutor, 2016 - present.
