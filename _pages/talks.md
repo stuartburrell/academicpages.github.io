@@ -11,7 +11,7 @@ Inhomogeneous attractors and upper box dimension
 *Fractals and Dimensions, Institut Mittag-Leffler, Sweden, December 2017.*  
 
 Introduction to trace contrast methods  
-*Estimating animal density using acoustic data workshop, Cape Town, South Africa, January 2017.*    
+*Estimating animal density using acoustics, University of Cape Town, South Africa, January 2017.*    
 
 Trace contrast methods in acoustic space  
 *African Institute for Mathematical Sciences, Cape Town, South Africa, January 2017.*  
