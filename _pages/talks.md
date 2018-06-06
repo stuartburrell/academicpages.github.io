@@ -21,7 +21,7 @@ A brief note on the dimension of inhomogeneous attractors
 *Dynamics Days Europe, University of Loughborough, September 2018.*  
 
 A universal upper bound on the dimension of inhomogeneous attractors  
-*British Mathematical Colloquium, University of St Andrews, June 2018*  
+*British Mathematical Colloquium, University of St Andrews, June 2018*.  
 
 How big are inhomogeneous attractors?  
 *Edinburgh Mathematical Society PG Student Meeting, The Burn, Glen Esk, May 2018.*  
