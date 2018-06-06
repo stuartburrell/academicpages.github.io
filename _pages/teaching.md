@@ -8,7 +8,7 @@ author_profile: true
 ## [Centre for Academic and Professional Development](https://www.st-andrews.ac.uk/capod/), University of St Andrews
 Mathematics and Statistics Tutor, 2016 - present.
 
-## School of Mathematics and Statistics, University of St Andrews
+## [School of Mathematics and Statistics](https://www.st-andrews.ac.uk/maths/), University of St Andrews
 
 ### 2018 - 2019
 MT2502 Analysis, Tutor, Autumn.
