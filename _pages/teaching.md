@@ -14,15 +14,15 @@ Mathematics and Statistics Tutor, 2016 - present.
 MT2502 Analysis, Tutor, Autumn.
 
 ### 2017 - 2018
-MT1002 Mathematics, Computer Demonstrator, Spring
+MT1002 Mathematics, Computer Demonstrator, Spring.
 
-MT1002 Mathematics, Tutor and Computer Demonstrator, Autumn 2017.  
+MT1002 Mathematics, Tutor and Computer Demonstrator, Autumn.
 
 ### 2016 - 2017
-MT2508 Statistical Inference, Tutor, Spring 2017.  
+MT2508 Statistical Inference, Tutor, Spring.  
 
-MT1003 Pure and Applied Mathematics, Tutor, Spring 2017.  
+MT1003 Pure and Applied Mathematics, Tutor, Spring.
 
-MT2000 Python Workshop, Tutor, Autumn 2016.  
+MT2000 Python Workshop, Tutor, Autumn.
 
-MT2504 Combinatorics and Probability, Tutor, Autumn 2016.  
+MT2504 Combinatorics and Probability, Tutor, Autumn. 
