@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching at the University of St Andrews"
 permalink: /teaching/
 author_profile: true
 ---
