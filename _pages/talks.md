@@ -8,7 +8,7 @@ author_profile: true
 
 ## International meetings and conferences
 Inhomogeneous attractors and upper box dimension  
-**Institut Mittag-Leffler, Sweden**, December 2017.  
+**Fractals and Dimensions, Institut Mittag-Leffler, Sweden**, December 2017.  
 
 Introduction to trace contrast methods
 **Estimating animal density using acoustic data workshop, Cape Town**, South Africa, January 2017.    
