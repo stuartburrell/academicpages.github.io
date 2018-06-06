@@ -1,10 +1,12 @@
 ---
-title: Research Articles
+title:Publications
 permalink: /publications/
 author_profile: true
 ---
 
-### [1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
+### Research Articles
+
+#### [1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
 *submitted.*
 
 {% if author.googlescholar %}
@@ -14,8 +16,8 @@ author_profile: true
 {% include base_path %}
 
 
-# Master's Theses
+### Master's Theses
 
-### [The order problem for natural and tropical matrix semigroups](https://stuartburrell.github.io/stuartburrell/files/gapthesis.pdf)  
+#### [The order problem for natural and tropical matrix semigroups](https://stuartburrell.github.io/stuartburrell/files/gapthesis.pdf)  
 
-### [Sequential Monte Carlo in population dynamics](https://stuartburrell.github.io/stuartburrell/files/smcthesis.pdf)  
+#### [Sequential Monte Carlo in population dynamics](https://stuartburrell.github.io/stuartburrell/files/smcthesis.pdf)  
