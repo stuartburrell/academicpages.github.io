@@ -14,7 +14,7 @@ Introduction to trace contrast methods
 *Estimating Animal Density with Acoustics, University of Cape Town, South Africa, January 2017.*    
 
 Trace contrast methods in acoustic space  
-*African Institute for Mathematical Sciences, Cape Town, South Africa, January 2017.*  
+*African Institute for Mathematical Sciences, South Africa, January 2017.*  
 
 ## National conferences and meetings
 A brief note on the dimension of inhomogeneous attractors  
