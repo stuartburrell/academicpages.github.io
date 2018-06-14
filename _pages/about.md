@@ -15,6 +15,9 @@ A current C.V. can be found [here.](http://stuartburrell.github.io/stuartburrell
 My current research is on fractal geometry and related fields in analysis, supervised by [Dr Jonathan Fraser](http://www.mcs.st-andrews.ac.uk/~jmf32/) and
 [Professor Kenneth Falconer](http://www.mcs.st-and.ac.uk/~kenneth/), and funded by a scholarship from the [Carnegie Trust](https://www.carnegie-trust.org/).
 
+I love giving talks to both Mathematical and general audiences. If you'd be
+interested in having me speak at an event, please shoot me an email.
+
 When not doing Mathematics, you'll find me rock climbing or in the beautiful mountains of Scotland.
 
 ## Contact details
