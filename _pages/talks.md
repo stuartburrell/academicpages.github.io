@@ -44,7 +44,7 @@ Sequential Monte Carlo in population dynamics
 
 ## Outreach and general audience
 The journey to a PhD in Mathematics
-*UWS Summer STEM Academy, Glasgow, July 2018.*
+*UWS Summer STEM Academy, Glasgow, July 2018.* 
 
 Fractal geometry in nature and art  
 *Carnegie Gathering, The Royal Society of Edinburgh, February 2018.*  
