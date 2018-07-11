@@ -6,6 +6,11 @@ author_profile: true
 
 ### Research Articles
 
+<!---
+[2] The dimension of inhomogeneous self-affine sets (with J.M. Fraser), [arXiv](https://arxiv.org/abs/1805.00887)  
+*submitted.*
+--->
+
 [1] On the dimension and measure of inhomogeneous attractors, [arXiv](https://arxiv.org/abs/1805.00887)  
 *submitted.*
 
