@@ -7,6 +7,12 @@ author_profile: true
 [See a map of all the places I've given a talk!](https://stuartburrell.github.io/stuartburrell/talkmap.html)
 
 ## International conferences and meetings
+The dimensions of inhomogeneous self-affine sets (poster presentation)
+*Fractals and Stochastics VI, KIT, Germany, October 2018.*
+
+A brief note on the dimension of inhomogeneous attractors  
+*Dynamics Days Europe, University of Loughborough, September 2018.*  
+
 Inhomogeneous attractors and upper box dimension  
 *Fractals and Dimensions, Institut Mittag-Leffler, Sweden, December 2017.*  
 
@@ -17,9 +23,6 @@ Trace contrast methods in acoustic space
 *African Institute for Mathematical Sciences, South Africa, January 2017.*  
 
 ## National conferences and meetings
-A brief note on the dimension of inhomogeneous attractors  
-*Dynamics Days Europe, University of Loughborough, September 2018.*  
-
 A universal upper bound on the dimension of inhomogeneous attractors  
 *British Mathematical Colloquium, University of St Andrews, June 2018*.  
 
